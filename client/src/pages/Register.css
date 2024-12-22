@@ -1,0 +1,55 @@
+.headerOfRegister {
+  width: 600px;
+  border-radius: 7%;
+  text-align: center;
+  height: 500px;
+  margin: 100px 450px;
+  color: white;
+}
+
+.headerForm {
+  margin-left: 150px;
+  text-align: center;
+}
+
+input {
+  width: 250px;
+  height: 50px;
+  margin-top: 50px;
+  display: block;
+  border-radius: 20px;
+}
+
+.input {
+  margin-top: 50px;
+  margin-left: 20px;
+}
+.verify_input {
+  margin-top: 50px;
+  margin-left: 200px;
+}
+.verify_code {
+  text-align: center;
+}
+.button_verify {
+  margin-top: 30px;
+  margin-right: 150px;
+  padding: 10px 30px;
+  border-radius: 30px;
+  background-color: blue;
+  margin-bottom: 30px;
+}
+
+h2 {
+  color: white;
+  font-size: 50px;
+}
+
+.button {
+  margin-top: 40px;
+  margin-right: 150px;
+  padding: 15px 40px;
+  border-radius: 130px;
+  background-color: blue;
+  color: antiquewhite;
+}

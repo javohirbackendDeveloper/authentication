@@ -1,0 +1,21 @@
+.login_header {
+  width: 500px;
+  border-radius: 40px;
+  text-align: center;
+  height: 500px;
+  color: white;
+  background-image: url("https://static.vecteezy.com/system/resources/thumbnails/006/568/028/small/abstract-blue-color-background-dynamic-wave-form-illustration-free-vector.jpg");
+  margin: 200px auto;
+}
+
+.input_login {
+  margin-left: 130px;
+  margin-top: 50px;
+}
+
+.button_login {
+  margin-top: 50px;
+  padding: 10px 30px;
+  border-radius: 20px;
+  background-color: blueviolet;
+}
